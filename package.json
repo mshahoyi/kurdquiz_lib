@@ -30,6 +30,7 @@
 	},
 	"dependencies": {
 		"@babel/runtime": "^7.10.4",
+		"dotenv": "^8.2.0",
 		"yup": "^0.29.1"
 	}
 }
